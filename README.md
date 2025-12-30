@@ -8,7 +8,7 @@
 
 ## Overview
 
-**CIPHER** (Cryptographic Intelligence Protocol for Holistic Ecosystem Research) is an advanced Solana trading bot that monitors Pump.fun token launches in real-time, evaluates creator credibility through a trust scoring system, and executes paper trades with configurable risk parameters.
+**CIPHER** is an advanced Solana trading bot that monitors Pump.fun token launches in real-time, evaluates creator credibility through a trust scoring system, and executes paper trades with configurable risk parameters.
 
 ---
 
